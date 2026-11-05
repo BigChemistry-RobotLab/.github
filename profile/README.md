@@ -12,18 +12,6 @@
   <b>Making formulation a data-driven science, using AI-guided autonomous labs.</b>
 </p>
 
-<p align="center">
-  <a href="https://bigchemistry.nl/"><img src="./badges/website.svg" alt="Website" height="22"></a>
-  <a href="https://nl.linkedin.com/company/big-chemistry"><img src="./badges/linkedin.svg" alt="LinkedIn" height="22"></a>
-</p>
-
-<p align="center">
-  <a href="https://bigchemistry.nl/about-us/">About us</a> ·
-  <a href="https://bigchemistry.nl/industry/">Industry</a> ·
-  <a href="https://bigchemistry.nl/talent-development/">Talent development</a> ·
-  <a href="https://bigchemistry.nl/contact/">Contact</a>
-</p>
-
 ---
 
 ## About us
@@ -32,7 +20,7 @@
 
 ## What we work on
 
-| | |
+| Research line | Description |
 |---|---|
 | 🤖 **[Autonomous Labs](https://bigchemistry.nl/autonomous-labs/)** | High-throughput experimental platforms that automatically collect the high-quality data AI models need. |
 | 📊 **[Data](https://bigchemistry.nl/data/)** | Formulation knowledge, including physicochemical property data, gathered from autonomous experiments and literature mining. |
@@ -64,9 +52,3 @@ More details are on the [Big Chemistry website](https://bigchemistry.nl/autonomo
 
 This organization hosts code from the Big Chemistry **Robot Lab**. You'll find software for lab automation, data pipelines and machine learning models for formulation research. See the repositories below.
 
-## Get in touch
-
-Interested in collaborating, joining us, or working with our tools? Reach us here:
-
-- <img src="./icons/globe.svg" width="16" height="16" alt=""> **Website:** [bigchemistry.nl/contact](https://bigchemistry.nl/contact/)
-- <img src="./icons/linkedin.svg" width="16" height="16" alt=""> **LinkedIn:** [Big Chemistry](https://nl.linkedin.com/company/big-chemistry)
