@@ -12,11 +12,21 @@
   <b>Making formulation a data-driven science, using AI-guided autonomous labs.</b>
 </p>
 
----
-
 ## About us
 
+<img src="./nl-map.png" alt="Map of the Netherlands showing the Big Chemistry partner institutes" align="right" width="300">
+
 [Big Chemistry](https://bigchemistry.nl/) is a consortium of five Dutch knowledge institutes. We want formulation chemistry to rely on data rather than trial and error. To do that, we build **AI-guided autonomous labs (ALs)** and **databases of complex molecules**. With these we develop predictive models, grounded in excellent science, for use in industry. The goal is to design new, sustainable formulations quickly and efficiently.
+
+**Partner institutes:**
+
+- Eindhoven University of Technology (TU/e)
+- Radboud University, Nijmegen
+- University of Groningen
+- AMOLF, Amsterdam
+- Fontys University of Applied Sciences, Eindhoven
+
+<br clear="right">
 
 ## What we work on
 
@@ -32,10 +42,10 @@ Six autonomous labs are currently operational. Each one targets a key property o
 
 | Lab | What it measures | Publication |
 |---|---|---|
-| 💧 **Pendant Drop** | Surface tension of single and binary surfactant systems. An autonomous robotic module uses active learning to map surfactant isotherms and find the critical micelle concentration and the maximum surface excess concentration. | [Dankloff *et al.*, *npj Comput. Mater.* **11**, 358 (2025)](https://www.nature.com/articles/s41524-025-01842-9) |
+| 💧 **Pendant Drop** | Surface tension of single and binary surfactant systems. An autonomous robotic module uses active learning to map surfactant isotherms and find the critical micelle concentration and the maximum surface excess concentration. | <ul><li>[Dankloff *et al.*, *npj Comput. Mater.* **11**, 358 (2025)](https://www.nature.com/articles/s41524-025-01842-9)</li></ul> |
 | ⚖️ **Hydrophilic Lipophilic Difference** | Interfacial tension, used to characterise emulsions. | — |
-| 🔬 **Formulon** (µL) | Phase diagrams at the microlitre scale. Active machine learning automatically navigates phase behaviour, for example of condensates. | [Leurs *et al.*, *Nat. Commun.* **16**, 9598 (2025)](https://www.nature.com/articles/s41467-025-64617-2) |
-| 🔬 **PhaseXplorer** (nL) | Phase diagrams at the nanolitre scale. Closed-loop active learning maps high-dimensional phase diagrams, and transfer learning reuses knowledge from earlier maps. | [Jansen *et al.*, *ACS Nano* **19**, 38981 (2025)](https://pubs.acs.org/doi/10.1021/acsnano.5c07268)<br>[González-García *et al.*, *npj Comput. Mater.* **12**, 279 (2026)](https://www.nature.com/articles/s41524-026-02154-2) |
+| 🔬 **Formulon** (µL) | Phase diagrams at the microlitre scale. Active machine learning automatically navigates phase behaviour, for example of condensates. | <ul><li>[Leurs *et al.*, *Nat. Commun.* **16**, 9598 (2025)](https://www.nature.com/articles/s41467-025-64617-2)</li></ul> |
+| 🔬 **PhaseXplorer** (nL) | Phase diagrams at the nanolitre scale. Closed-loop active learning maps high-dimensional phase diagrams, and transfer learning reuses knowledge from earlier maps. | <ul><li>[Jansen *et al.*, *ACS Nano* **19**, 38981 (2025)](https://pubs.acs.org/doi/10.1021/acsnano.5c07268)</li><li>[González-García *et al.*, *npj Comput. Mater.* **12**, 279 (2026)](https://www.nature.com/articles/s41524-026-02154-2)</li></ul> |
 | 🫧 **Foamatron** | Foam characteristics, and how well defoamers and anti-foam agents work. | — |
 | 🎨 **Coatmat** | Coating properties, both in the liquid formulation and after curing. | — |
 
