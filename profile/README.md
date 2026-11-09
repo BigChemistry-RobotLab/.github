@@ -28,6 +28,16 @@
 
 <br clear="right">
 
+### Proudly collaborating with
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./partners-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./partners-light.svg">
+    <img src="./partners-light.svg" alt="Partner logos: Eindhoven University of Technology, Radboud University, University of Groningen, AMOLF, Fontys University of Applied Sciences, Nationaal Groeifonds" width="100%">
+  </picture>
+</p>
+
 ## What we work on
 
 | Research line | Description |
