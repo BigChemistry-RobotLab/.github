@@ -28,16 +28,6 @@
 
 <br clear="right">
 
-### Proudly collaborating with
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./partners-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./partners-light.gif">
-    <img src="./partners-light.gif" alt="Partner logos: Eindhoven University of Technology, Radboud University, University of Groningen, AMOLF, Fontys University of Applied Sciences, Nationaal Groeifonds" width="100%">
-  </picture>
-</p>
-
 ## What we work on
 
 | Research line | Description |
@@ -72,3 +62,12 @@ More details are on the [Big Chemistry website](https://bigchemistry.nl/autonomo
 
 This organization hosts code from the Big Chemistry **Robot Lab**. You'll find software for lab automation, data pipelines and machine learning models for formulation research. See the repositories below.
 
+## Proudly collaborating with
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./partners-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./partners-light.gif">
+    <img src="./partners-light.gif" alt="Partner logos: Eindhoven University of Technology, Radboud University, University of Groningen, AMOLF, Fontys University of Applied Sciences, Nationaal Groeifonds" width="100%">
+  </picture>
+</p>
